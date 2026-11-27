@@ -1,7 +1,0 @@
-check,value
-max_G_P_decomposition_error,3.3306690738754696e-16
-mean_within_catchment_corr_GP_Ps,-0.6430417192038956
-median_within_catchment_corr_GP_Ps,-0.6493515142091303
-n_zero_flow_seasons,456.0
-n_catchments_with_zero_flow,59.0
-n_catchments_zero_flow_over_10pct,30.0
